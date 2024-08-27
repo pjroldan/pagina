@@ -1,0 +1,19 @@
+.titulo{
+    text-align: center;
+    padding: 20px;     
+    margin-bottom: 20px;
+}
+
+article{
+    margin: 0 auto;
+    max-width: 800px; 
+    
+}
+
+img { 
+    width: 100%;
+}
+
+.sub{
+    margin-bottom: 20px;
+}
